@@ -4,8 +4,6 @@
 
 **Copilot:**
 
-Aquí tienes un ejemplo de cómo se vería un README.md en español con notas:
-
 ```markdown
 # Mi Proyecto
 
